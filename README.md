@@ -151,6 +151,3 @@ This version does not include:
 
 ## 
 
-## License
-
-GPL-3.0-or-later
