@@ -1,0 +1,11 @@
+schema_version = "1.0.0"
+id = "batch_renderer"
+version = "1.0.0"
+name = "Multi-Cam Batch Renderer"
+tagline = "Queue and render multiple camera frame-range shots from one scene"
+maintainer = "Dumkene"
+type = "add-on"
+website = "https://extensions.blender.org/"
+tags = ["Render", "Animation"]
+blender_version_min = "5.0.0"
+license = ["SPDX:GPL-3.0-or-later"]
