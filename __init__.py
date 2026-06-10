@@ -1,6 +1,6 @@
 bl_info = {
     "name": "Multi-Cam Batch Renderer",
-    "author": "OpenAI",
+    "author": "Dk",
     "version": (0, 1, 0),
     "blender": (5, 0, 0),
     "location": "View3D > Sidebar > Multi-Cam Batch Renderer",
